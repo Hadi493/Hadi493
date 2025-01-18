@@ -16,7 +16,7 @@ I'm a passionate **Django Full-Stack Developer** skilled in the **MERN stack**, 
 ---
 
 ## 📊 Stats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hadi493&theme=highcontrast&border_radius=8&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hadi493&theme=highcontrast&border_radius=8&hide_border=true)
 
 ---
 
