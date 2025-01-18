@@ -1,31 +1,60 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
-
-## About Me:
-I'm a passionate **Django Full-Stack Developer** skilled in the **MERN stack**, **Rust**, and **Flutter**. I have a strong interest in **Cybersecurity** and enjoy diving into the world of assembly language.
-
----
-
-## 🚀 Skills:
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,react,express,mongodb,rust,flutter,linux,git" alt="Skills Row 1"/><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sqlite,nginx,bootstrap,postman,docker,figma,vscode" alt="Skills Row 2"/>
-  </a>
+<h1 align="center">Hi there! 👋 Welcome to my GitHub Profile!</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76888135/221343141-7d2e34ab-5703-4627-a82f-20cb93638006.gif" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-## 📊 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=highcontrast&hide_border=true&border_radius=8)
+## 🌟 About Me  
+
+👨‍💻 I’m a passionate **Django Full-Stack Developer** with expertise in the **MERN stack**, **Rust**, and **Flutter**.  
+🛡️ I have a deep interest in **Cybersecurity** and love exploring low-level programming like **assembly language**.  
+🚀 My goal is to build impactful projects while continuously learning and growing in the tech space.  
 
 ---
 
-## ❤️ Let's Connect!
-Thank you for visiting my profile! I'm always excited about collaboration, feedback, and new learning opportunities.
+## 🚀 Skills  
 
-- **GitHub**: [Hadi493](https://github.com/Hadi493)  
-- **Discord**: [Join Here](https://discord.gg/Z3NCMKGx)  
+<p align="center"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,react,express,mongodb,rust,flutter,linux,git" alt="Core Skills" width="75%"/><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sqlite,nginx,bootstrap,postman,docker,figma,vscode" alt="Additional Tools" width="75%"/>
+  </a>
+</p>  
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Hadi493&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak Stats" height="150"/>
+</div>
+
+---
+
+### 🛠️ Personal Projects  
+Check out my repositories for more! [View All Repositories](https://github.com/Hadi493?tab=repositories)
+
+---
+
+## 🤝 Let's Connect  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+  <a href="https://github.com/Hadi493">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/Z3NCMKGx">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket Emoji" width="30" height="30" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76888135/221343271-16b8e50f-fcb8-40a6-8edc-8d65e30ff4dc.gif" alt="Footer Banner" width="100%"/>
 </p>
