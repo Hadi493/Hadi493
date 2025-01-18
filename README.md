@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub Profile!
 
 ## About Me:
-I'm a passionate **Django Full-Stack Developer** skilled in the **MERN stack**, **Rust**, and **Flutter**. I have a strong interest in **Cybersecurity** and enjoy diving into the world of assembly language programming.
+I'm a passionate **Django Full-Stack Developer** skilled in the **MERN stack**, **Rust**, and **Flutter**. I have a strong interest in **Cybersecurity** and enjoy diving into the world of assembly language.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a passionate **Django Full-Stack Developer** skilled in the **MERN stack**, 
 ---
 
 ## 📊 Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hadi493&theme=highcontrast&border_radius=8&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=highcontrast&hide_border=true&border_radius=8)
 
 ---
 
