@@ -47,11 +47,15 @@ Check out my repositories for more! [View All Repositories](https://github.com/H
   <a href="https://discord.gg/Z3NCMKGx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/hadi-alam-web-developer-4a9881284/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket Emoji" width="30" height="30" />
 </p>
+
 
 ---
 
