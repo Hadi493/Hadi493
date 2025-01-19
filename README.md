@@ -56,7 +56,6 @@ Check out my repositories for more! [View All Repositories](https://github.com/H
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket Emoji" width="30" height="30" />
 </p>
 
-
 ---
 
 <p align="center">
