@@ -28,7 +28,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Hadi493&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak Stats" height="150"/>
 </div>
 
 ---
