@@ -46,7 +46,7 @@ Check out my repositories for more! [View All Repositories](https://github.com/H
   <a href="https://discord.gg/Z3NCMKGx">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/hadi-alam-web-developer-4a9881284/">
+  <a href="https://www.linkedin.com/in/hadialam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
