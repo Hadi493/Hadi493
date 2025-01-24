@@ -40,7 +40,7 @@ Check out my repositories for more! [View All Repositories](https://github.com/H
   <a href="https://github.com/Hadi493">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/Z3NCMKGx">
+  <a href="https://discord.gg/2W7TbxsJHy">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hadialam/">
