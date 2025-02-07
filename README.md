@@ -7,8 +7,8 @@
 ## 🌟 About Me  
 
 <p align="center">
-  👨‍💻 I’m a passionate **Django Full-Stack Developer** with expertise in the **MERN stack**, **Rust**, and **Flutter**.  <br>
-  🛡️ I have a deep interest in **Cybersecurity** and love exploring low-level programming like **assembly language**. <br>
+  👨‍💻 I’m a passionate Django Full-Stack Developer with expertise in the MERN stack, Rust, and Flutter.  <br>
+  🛡️ I have a deep interest in Cybersecurity and love exploring low-level programming like assembly language. <br>
   🚀 My goal is to build impactful projects while continuously learning and growing in the tech space.  
 </p>
 
