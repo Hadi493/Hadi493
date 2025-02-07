@@ -1,14 +1,16 @@
 <h1 align="center">Hi there! 👋 Welcome to my GitHub Profile!</h1>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76888135/221343141-7d2e34ab-5703-4627-a82f-20cb93638006.gif" alt="Banner" width="100%"/>
 </p>
 
 ## 🌟 About Me  
 
-👨‍💻 I’m a passionate **Django Full-Stack Developer** with expertise in the **MERN stack**, **Rust**, and **Flutter**.  
-🛡️ I have a deep interest in **Cybersecurity** and love exploring low-level programming like **assembly language**.  
-🚀 My goal is to build impactful projects while continuously learning and growing in the tech space.  
-
+<p align="center">
+  👨‍💻 I’m a passionate **Django Full-Stack Developer** with expertise in the **MERN stack**, **Rust**, and **Flutter**.  <br>
+  🛡️ I have a deep interest in **Cybersecurity** and love exploring low-level programming like **assembly language**. <br>
+  🚀 My goal is to build impactful projects while continuously learning and growing in the tech space.  
+</p>
 
 ## 🚀 Skills  
 
@@ -29,8 +31,12 @@
 
 ---
 
-### 🛠️ Personal Projects  
-Check out my repositories for more! [View All Repositories](https://github.com/Hadi493?tab=repositories)
+### 🛠️ Personal Projects 
+<p align="center">
+  <a href="https://github.com/Hadi493?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repos-blue?style=for-the-badge&logo=github" alt="View Repositories"/>
+  </a>
+</p>
 
 ---
 
@@ -49,8 +55,7 @@ Check out my repositories for more! [View All Repositories](https://github.com/H
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket Emoji" width="30" height="30" />
-</p>
+  <img src="https://media.giphy.com/media/WZHQ5v4lUeVOfw69cq/giphy.gif" alt="Rocket Emoji" width="50" height="50" />  </p>
 
 ---
 
