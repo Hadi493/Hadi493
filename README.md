@@ -57,7 +57,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WZHQ5v4lUeVOfw69cq/giphy.gif" alt="Rocket Emoji" width="50" height="50" />  </p>
 
----
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76888135/221343271-16b8e50f-fcb8-40a6-8edc-8d65e30ff4dc.gif" alt="Footer Banner" width="100%"/>
