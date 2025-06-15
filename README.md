@@ -12,15 +12,6 @@
   🚀 My goal is to build impactful projects while continuously learning and growing in the tech space.  
 </p>
 
-## 🚀 Skills  
-
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,react,express,mongodb,rust,flutter,linux,git" alt="Core Skills" width="75%"/><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sqlite,nginx,bootstrap,postman,docker,figma,vscode" alt="Additional Tools" width="75%"/>
-  </a>
-</p>  
-
 ---
 
 ## 📈 GitHub Stats  
