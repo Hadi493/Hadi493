@@ -11,8 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
 </div>
 
----
-
 ### 🛠️ Personal Projects 
 <p align="center">
   <a href="https://github.com/Hadi493?tab=repositories">
@@ -20,7 +18,6 @@
   </a>
 </p>
 
----
 
 ## 🤝 Let's Connect  
 
