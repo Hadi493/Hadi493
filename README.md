@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! 👋 Welcome to my GitHub Profile!</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76888135/221343141-7d2e34ab-5703-4627-a82f-20cb93638006.gif" alt="Banner" width="100%"/>
-</p>
-
 
 ## 📈 GitHub Stats  
 
@@ -37,6 +33,3 @@
   <img src="https://media.giphy.com/media/WZHQ5v4lUeVOfw69cq/giphy.gif" alt="Rocket Emoji" width="50" height="50" />  </p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76888135/221343271-16b8e50f-fcb8-40a6-8edc-8d65e30ff4dc.gif" alt="Footer Banner" width="100%"/>
-</p>
