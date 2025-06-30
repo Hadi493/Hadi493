@@ -14,8 +14,8 @@
   </a>
 </p>
 
-# USD
-<img src="https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=032" width="24" height="24" /> ***USD*** `0x7aA31724ac1dbf08bD5C9b080604b6Cce6b086e0`
+
+***USD*** `0x7aA31724ac1dbf08bD5C9b080604b6Cce6b086e0`
 
 ## 🤝 Let's Connect  
 
