@@ -14,9 +14,6 @@
   </a>
 </p>
 
-
-***USD*** `0x7aA31724ac1dbf08bD5C9b080604b6Cce6b086e0`
-
 ## 🤝 Let's Connect  
 
 <p align="center">
