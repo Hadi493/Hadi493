@@ -1,20 +1,20 @@
-<h1 align="center">Hi there! 👋 Welcome to my GitHub Profile!</h1>
+<h1 align="center">Hi there! Welcome to my GitHub Profile!</h1>
 
 
-## 📈 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
 </div>
 
-### 🛠️ Personal Projects 
+### Personal Projects 
 <p align="center">
   <a href="https://github.com/Hadi493?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repos-blue?style=for-the-badge&logo=github" alt="View Repositories"/>
   </a>
 </p>
 
-## 🤝 Let's Connect  
+## Let's Connect  
 
 <p align="center">
   <a href="https://github.com/Hadi493">
