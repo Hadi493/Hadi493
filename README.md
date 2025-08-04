@@ -7,10 +7,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
 </div>
 
-### Personal Projects 
+### 🚀 Personal Projects
+
 <p align="center">
-  <a href="https://github.com/Hadi493?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repos-blue?style=for-the-badge&logo=github" alt="View Repositories"/>
+  <a href="https://github.com/Hadi493?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-Hadi493-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://github.com/cyber-green/" target="_blank">
+    <img src="https://img.shields.io/badge/Organization-cyber--green-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Cyber-Green Organization"/>
+  </a>
+  <a href="https://github.com/cyber-green/cg-i3dotfiles/" target="_blank">
+    <img src="https://img.shields.io/badge/Active_Dotfiles-cg--i3dotfiles-10B981?style=for-the-badge&logo=linux&logoColor=white" alt="cg-i3dotfiles"/>
   </a>
 </p>
 
