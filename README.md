@@ -17,18 +17,13 @@
 ## Let's Connect  
 
 <p align="center">
-  <a href="https://github.com/Hadi493">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://discord.gg/xCRKHmu98V">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img alt="Join me on Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/hadialam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/HadiAlam_">
+    <img alt="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WZHQ5v4lUeVOfw69cq/giphy.gif" alt="Rocket Emoji" width="50" height="50" />  </p>
-
-
