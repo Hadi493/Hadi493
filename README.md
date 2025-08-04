@@ -14,7 +14,6 @@ I'm a passionate developer who loves building web applications and understanding
 class Developer:
     def __init__(self):
         self.name = "Hadi Alam"
-        self.location = "Sylhet, Bangladesh"
         self.current_focus = "Low-level programming & System internals"
         self.daily_driver = "Linux"
         self.loves = ["Clean code", "Efficient systems", "Good coffee"]
