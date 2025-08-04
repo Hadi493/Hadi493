@@ -1,42 +1,127 @@
-<h1 align="center">Hi there! Welcome to my GitHub Profile!</h1>
-
-
-## GitHub Stats  
+# Hi there, I'm Hadi Alam 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=radical&hide_border=true&border_radius=15" alt="GitHub Stats" height="150"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Django+Specialist;Low-Level+Enthusiast;From+Sylhet%2C+Bangladesh)](https://git.io/typing-svg)
+
 </div>
 
-### 🚀 Personal Projects
+## About Me
 
-<p align="center">
-  <a href="https://github.com/Hadi493?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Profile-Hadi493-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://github.com/cyber-green/" target="_blank">
-    <img src="https://img.shields.io/badge/Organization-cyber--green-065F46?style=for-the-badge&logo=github&logoColor=white" alt="Cyber-Green Organization"/>
-  </a>
-  <a href="https://github.com/cyber-green/cg-i3dotfiles/" target="_blank">
-    <img src="https://img.shields.io/badge/Active_Dotfiles-cg--i3dotfiles-10B981?style=for-the-badge&logo=linux&logoColor=white" alt="cg-i3dotfiles"/>
-  </a>
-</p>
+I'm a passionate developer from Sylhet, Bangladesh who loves building web applications and understanding how things work under the hood. Currently diving deep into low-level programming because there's something magical about understanding what happens beneath the abstractions.
 
-## Let's Connect  
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Hadi Alam"
+        self.location = "Sylhet, Bangladesh"
+        self.current_focus = "Low-level programming & System internals"
+        self.daily_driver = "Linux"
+        self.loves = ["Clean code", "Efficient systems", "Good coffee"]
+    
+    def currently_learning(self):
+        return ["System programming", "Computer architecture", "How things really work"]
+```
 
-<p align="center">
-  <a href="https://discord.gg/xCRKHmu98V" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hadialam/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/HadiAlam_" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/Hadi493/" target="_blank">
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-</p>
+## Tech Stack
 
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
+## Projects
+
+<table>
+<tr>
+<td>
+
+**[Fun-Share-App](https://github.com/Hadi493/Fun-Share-App)**  
+Template for social sharing applications
+
+</td>
+<td>
+
+**[cg-fish-prompt](https://github.com/Hadi493/cg-fish-prompt)**  
+Clean fish shell prompt (Cyber Green project)
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[cg-polybar](https://github.com/Hadi493/cg-polybar)**  
+Modern polybar configuration for clean desktop
+
+</td>
+<td>
+
+**[cg-waybar](https://github.com/Hadi493/cg-waybar)**  
+Waybar config designed for Hyprland
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[modern-login-master](https://github.com/Hadi493/modern-login-master)**  
+Clean and modern login interface design
+
+</td>
+<td>
+
+**[youtube-app](https://github.com/Hadi493/youtube-app)**  
+Forked YouTube application project
+
+</td>
+</tr>
+</table>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi493&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hadi493&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hadi493)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Hadi493/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadialam/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HadiAlam_)
+
+</div>
+
+## What Drives Me
+
+I believe in writing code that's not just functional, but also readable and maintainable. There's something fascinating about the layers of abstraction that make our modern computing possible - and I love peeling back those layers to understand what's really happening.
+
+When I'm not coding, you'll find me experimenting with different Linux configurations. There's a certain satisfaction in having a perfectly tuned system that works exactly the way you want it to.
+
+<div align="center">
+
+---
+
+**"The best way to learn is by doing, and the best way to understand is by building."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hadi493&color=58A6FF&style=flat-square)
+
+</div>
