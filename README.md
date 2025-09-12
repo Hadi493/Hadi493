@@ -1,4 +1,4 @@
-# Hi there, I'm Hadi Alam 👋
+# Hi there, I'm Hadi Alam
 
 <div align="center">
 
@@ -6,20 +6,16 @@
 
 </div>
 
-## About Me
 
-I'm a passionate developer who loves building web applications and understanding how things work under the hood. Currently diving deep into low-level programming because there's something magical about understanding what happens beneath the abstractions.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Hadi Alam"
-        self.current_focus = "Low-level programming & System internals"
-        self.daily_driver = "Linux"
-        self.loves = ["Clean code", "Efficient systems", "Good coffee"]
-    
-    def currently_learning(self):
-        return ["System programming", "Computer architecture", "How things really work"]
-```
+<div align="center">
+
+<b>My GitHub Stats</b>
+
+</br>
+
+<a href="http://www.github.com/Hadi493"><img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hadi493's GitHub stats" /></a>
+
+<a href="http://www.github.com/Hadi493"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi493&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
