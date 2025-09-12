@@ -1,4 +1,4 @@
-# Hi there, I'm Hadi Alam
+<h1 align="center"> Hi there, I'm Hadi Alam</h1>
 
 <div align="center">
 
