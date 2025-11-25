@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Hadi493">
   <img src="https://github-readme-stats.vercel.app/api?username=Hadi493&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
@@ -18,5 +18,5 @@
   <img src="https://streak-stats.demolab.com?user=Hadi493&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
