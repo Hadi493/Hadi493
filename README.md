@@ -1,12 +1,4 @@
-<!-- <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ComicShannsMono&Nerd&Font&size=50&pause=1000&color=green&center=true&vCenter=true&width=800&lines=Hi+there+I'm+Hadi+Alam;Low+Level+Learner.;Full+Stack+Developer.;)](https://git.io/typing-svg)
-
-</div> -->
-
-# Hadi Alam
-
-Hey there, I'm Hadi Alam, a 18 years old Web developer & Low Level Learner from Bangladesh. I love making Softwares.
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=E0DEF4&width=435&lines=Hi%2C+I'm+Hadi+Alam%F0%9F%91%8B)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
