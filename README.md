@@ -17,8 +17,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=EB6F92)](https://discord.gg/xCRKHmu98V)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EB6F92)](mailto:cybergreen.hadialam@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hadi493&style=flat-square&color=EB6F92)
-
 </div>
 
 
